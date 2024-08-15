@@ -1,2 +1,2 @@
 # SkillSphere-E-learningHub
-E-Learning Plateform
+E-Learning Platform
