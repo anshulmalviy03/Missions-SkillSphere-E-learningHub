@@ -51,7 +51,7 @@ const Footer = () => {
         className="text-center p-3"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
       >
-        &copy; 2022 copyright
+        &copy; Copyright 2024 CDAC. All Rights Reserved.
         {/* <a className="text-white" href="#">
           e-learning.com
         </a> */}
