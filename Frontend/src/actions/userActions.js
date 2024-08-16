@@ -1,3 +1,5 @@
+//COnsists several user related actions Redux for statemenagement & axios for making HTTP requests to a backend server
+
 import axios from "axios";
 import {
   USER_ADD_CHAPTER_FAIL,
