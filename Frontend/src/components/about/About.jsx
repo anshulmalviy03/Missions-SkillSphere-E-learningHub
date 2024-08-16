@@ -17,7 +17,7 @@ function About() {
   </div>
   <div class="info">
     <h4> </h4>
-    <h4>Developer</h4>
+    <h4>Shubham Rokade</h4>
    
   </div>
 </div>
@@ -28,29 +28,29 @@ function About() {
   </div>
   <div class="info">
     <h4> </h4>
-    <h4>Developer</h4>
+    <h4>Aniket Khatal</h4>
     
   </div>
 </div>
 
 <div class="card">
   <div class="image">
-    {/* <img src={require("../about/Ashlekh[1].jpg")} alt=""/> */}
+    <img src={require("../about/Piyush.jpeg")} alt=""/>
   </div>
   <div class="info">
     <h4> </h4>
-    <h4>Full Stack-Web Developer</h4>
+    <h4>Piyush Chaudhary</h4>
     
   </div>
 </div>
 
 <div class="card">
   <div class="image">
-    {/* <img src={require("../about/Ashlekh[1].jpg")} alt=""/> */}
+    <img src={require("../about/Anshul.jpeg")} alt=""/>
   </div>
   <div class="info">
     <h4> </h4>
-    <h4>Full Stack-Web Developer</h4>
+    <h4>Anshul Malviya</h4>
     
   </div>
 </div>
